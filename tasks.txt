@@ -1,4 +1,0 @@
-What to do?
-
-1. On iphone 5 (320px) fix header - done 
-2. Fix blog grid on mobile - done 
