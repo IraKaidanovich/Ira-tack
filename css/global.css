@@ -1,0 +1,18 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+html,body {
+  margin: 0;
+}
+
+body {
+  overflow-x: hidden;
+  position: relative;
+  min-height: 100vh;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}

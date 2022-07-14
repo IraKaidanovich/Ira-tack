@@ -1,0 +1,11 @@
+.footer {
+  margin-top: auto;
+}
+
+.footer__wrapper {
+  background-color: rgb(233, 19, 19);
+  color: rgb(254, 254, 254);
+  width: 100%;
+  text-align: right;
+  padding: 5px;
+}

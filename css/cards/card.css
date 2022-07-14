@@ -1,0 +1,56 @@
+.card__plus--hover-rotated {
+  transition: 0.2s transform;
+}
+  
+.card__plus--hover-rotated:hover {
+  transform: rotate(135deg);
+}
+
+.card {
+  background: #c0c0c0;
+  align-self: stretch;
+  padding: 10px;
+  border-radius: 5px;
+  width: 300px;
+}
+
+.card--ira:hover {
+  background: pink;
+}
+
+.card--ilya:hover{
+  background-color: rgba(15, 143, 172, 0.686);
+}
+
+.card--cbt:hover{
+  background: #0e771cc1;
+}
+
+.card__image {
+  display: flex;
+  justify-content: center;
+  height: 200px;
+  margin-bottom: 10px;
+}
+
+.card__image img {
+  height: 100%;
+}
+
+.card__title {
+  font-size: 30px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.card__description {
+  font-size: 16px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+@media (max-width: 800px) {
+  .card {
+    width: 100%;
+  }
+}

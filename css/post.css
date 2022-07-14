@@ -1,0 +1,22 @@
+.footer1 {
+  margin-top: auto;
+}
+
+.footer__wrapper1 {
+  background-color: black;
+  color: rgb(254, 254, 254);
+  width: 100%;
+  text-align: right;
+  padding: 5px;
+  position: fixed;
+  bottom: 0%;
+}
+
+.texts {
+  padding-left: 10px;
+}
+
+.more-love {
+  margin-top: 20px;
+  margin-left: 20px;
+}
